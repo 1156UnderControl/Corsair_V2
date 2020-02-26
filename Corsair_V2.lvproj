@@ -849,7 +849,6 @@ AddOutputFilter chunkFilter
 			<Item Name="JoysticksGlobal.vi" Type="VI" URL="../Team Code/JoysticksGlobal.vi"/>
 			<Item Name="MotorsGlobal.vi" Type="VI" URL="../Team Code/MotorsGlobal.vi"/>
 			<Item Name="MoveForward.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/Auto/2020/MoveForward.vi"/>
-			<Item Name="MoveForwardAndStraight.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/Auto/2020/MoveForwardAndStraight.vi"/>
 			<Item Name="NEWLinearInterpolate.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/Cheesy Drive/NEWLinearInterpolate.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
