@@ -114,6 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Team Code/Vision Processing.vi"/>
 		</Item>
 		<Item Name="Ball counter.ctl" Type="VI" URL="../Team Code/Ball counter.ctl"/>
+		<Item Name="IntakeLimiter.ctl" Type="VI" URL="../Team Code/IntakeLimiter.ctl"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
